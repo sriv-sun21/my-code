@@ -1,2 +1,5 @@
 # my-code
-a small project in UI with ajax call ,json data and using knockout
+to create own extension plugin for
+(1)  Water mark retension for IE
+(2)Sticky header for the tables
+(3)multi select
